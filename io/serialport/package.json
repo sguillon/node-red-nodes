@@ -3,7 +3,7 @@
     "version"       : "0.0.3",
     "description"   : "Node-RED nodes to talk to an serial port",
     "dependencies"  : {
-        "serialport"   : "1.7.*"
+        "serialport"   : "2.0.*"
     },
     "repository" : {
         "type":"git",
